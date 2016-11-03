@@ -1,7 +1,7 @@
 # conceptDriftAnalyser
 Perl Tool to Analyze and Detect Concept Drift in Spam E-mails
 
-Used in Concept Drift in e-mail datasets: Detailed study with practical implications. 
+Developed for 'Concept Drift in e-mail datasets: Detailed study with practical implications' article. 
 
 Compatible with Perl 5.12 and higher.
 
